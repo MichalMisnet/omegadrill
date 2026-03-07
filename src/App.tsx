@@ -91,7 +91,12 @@ const App = () => {
                                 </div>
                                 <div style={{ display: 'flex', alignItems: 'center', gap: '1rem' }}>
                                     <MapPin color="#ff9500" />
-                                    <span>ul. Geotechniczna 1, 00-001 Warszawa</span>
+                                    <span>ul. Stanisława Leszczyńskiego 4/25, 50-078 Wrocław</span>
+                                </div>
+                                <div style={{ marginTop: '1rem', paddingTop: '1rem', borderTop: '1px solid #333', fontSize: '0.9rem', color: '#888' }}>
+                                    <p>NIP: 8971865391</p>
+                                    <p>KRS: 0000779563</p>
+                                    <p>REGON: 382964087</p>
                                 </div>
                             </div>
                             <div style={{ display: 'flex', gap: '1rem', marginTop: '3rem' }}>
